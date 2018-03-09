@@ -1,0 +1,25 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "A simple demo by learning Electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinmengjie/electron-demo.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Jinmengjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinmengjie/electron-demo/issues"
+  },
+  "homepage": "https://github.com/jinmengjie/electron-demo#readme",
+  "devDependencies": {
+    "electron": "^1.8.3"
+  }
+}
